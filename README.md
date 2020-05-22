@@ -28,3 +28,6 @@ For detecting the emotion, first, you need to run the train.py program to train 
 
 # Output Verification
 Now you can run the videoTester.py program. Your camera automatically turns on and detects the emotion of your face.
+
+# Conclusion
+This is just a beginning step in face detection. If you like this project please give a star and if you want to develop the code you can fork.
