@@ -31,3 +31,5 @@ Now you can run the videoTester.py program. Your camera automatically turns on a
 
 # Conclusion
 This is just a beginning step in face detection. If you like this project please give a star and if you want to develop the code you can fork.
+# Deom 
+![](images/normal.jpg)
