@@ -3,7 +3,6 @@
 Real Time Emotion Detection with Python
 
 # Installing Dependencies
-
 For using this machine learning concept, you need to install a lot of dependencies into your system using the command prompt. The machine learning algorithm used by me was a tensor flow algorithm, which was designed by Google for machine learning functions. For analyzing faces. you need to detect the faces, to know more about detecting faces using python, you can refer to my article by clicking here. You need a cascade file for this process, you can download it from my git-hub page or in the download section.
 
 You can install the dependencies by using the commands given below:
