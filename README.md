@@ -23,6 +23,7 @@ pip install kwargs
 pip install cinit  
 
 # Training the Dataset
+
 For training purposes, I use the predefined un trained dataset CSV file as my main input for my input for training the machine. You can use the code given below for training the machine using the dataset. Before that, you need to ensure that all required files in the same repository where the program presents otherwise it will through some error. You can download the data set by clicking here.
 # Detecting Real-Time Emotion
 For detecting the emotion, first, you need to run the train.py program to train the data. Then you can use the code.
