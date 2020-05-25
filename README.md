@@ -3,7 +3,6 @@
 
 
 
-
 Real Time Emotion Detection with Python
 
 # Installing Dependencies
